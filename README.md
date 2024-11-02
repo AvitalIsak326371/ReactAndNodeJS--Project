@@ -14,3 +14,32 @@
 ![image](https://github.com/user-attachments/assets/4820ca5c-65d0-4be6-ba7d-44d75b995c82)
 
 
+טופס יצירת קשר :
+![image](https://github.com/user-attachments/assets/c34e1a5c-2ec5-4fac-93c8-e5dc5f849534)
+
+התחברות:
+
+![צילום מסך 2024-11-02 220252](https://github.com/user-attachments/assets/5a88b434-d659-4155-8571-31636858afa8)
+
+מסך מנהל:
+
+![צילום מסך 2024-11-02 220455](https://github.com/user-attachments/assets/90fd6152-9201-4aaf-bce2-bc137be41019)
+
+הצגת רשימת פגישות:
+
+![צילום מסך 2024-11-02 220842](https://github.com/user-attachments/assets/e81f5b5f-db78-48ca-98d3-f2028a86ddba)
+
+הוספת קורס:
+
+![צילום מסך 2024-11-02 220945](https://github.com/user-attachments/assets/2d995d2f-b9ce-477b-8841-b0509115a039)
+
+עדכון לוגו:
+![צילום מסך 2024-11-02 221057](https://github.com/user-attachments/assets/dab06226-803b-488b-a780-19145c73c11f)
+
+
+
+
+
+
+
+
