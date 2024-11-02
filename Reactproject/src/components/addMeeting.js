@@ -57,7 +57,7 @@ const AddMeeting=observer((props)=>{
   return (
     <React.Fragment>
       <Button variant="outlined" onClick={handleClickOpen}>
-        Add
+         Contact Us
       </Button>
       <Dialog
         open={open}
@@ -76,10 +76,7 @@ const AddMeeting=observer((props)=>{
         <DialogTitle>Subscribe</DialogTitle>
         <DialogContent>
           <DialogContentText>
-            To subscribe to this website,<br/>
-             please enter your email address here.<br/>
-              We
-            will send updates occasionally.
+            Please leave your details<br/> and select a convenient date and time<br/> for a representative to contact you.<br/> We strive to provide you<br/> with the requested information<br/> as soon as possible.
           </DialogContentText>
           <TextField autoFocus required margin="dense" id="clientName" label="Name" variant="standard" 
           onChange={(e)=>{handleChange("clientName",e.target.value)}}/><br/><br/>
